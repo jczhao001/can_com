@@ -5,4 +5,3 @@ data = n.read(100)
 for x in data:
 
     print("0x%x"%x)
-
